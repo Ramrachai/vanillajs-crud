@@ -13,11 +13,11 @@ body {
   flex: 1;
 }
 #form {
-    margin-top: 40px;
+  margin-top: 40px;
 }
-.form-group textarea{
-    padding: 8px;
-    margin-top: 20px;
+.form-group textarea {
+  padding: 8px;
+  margin-top: 20px;
 }
 #posts {
   max-width: 400px;
@@ -34,7 +34,7 @@ i {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: beige;
+  background-color: rgb(235, 241, 151);
   padding: 8px 10px;
   border-radius: 5px;
 }
